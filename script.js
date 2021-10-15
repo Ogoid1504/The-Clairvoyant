@@ -1,0 +1,6 @@
+alert("Pense em um número de 0 a 10 \ \n Think of a number from 0 to 10")
+alert("Multiplique o por 2 \ \n Multiply by 2")
+alert("Some mais 20 \ \n Add 20 more")
+alert("Divida por 2 \ \n Divide by 2")
+alert("Subtraia desse resultado o número que você pensou \ \n Subtract the number you thought from this result.")
+alert("O resultado é 10 \ \n The result is 10")
